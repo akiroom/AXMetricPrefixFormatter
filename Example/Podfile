@@ -1,0 +1,7 @@
+
+target 'AXMetricPrefixFormatter', :exclusive => true do
+  pod "AXMetricPrefixFormatter", :path => "../"
+
+  pod 'Specta', '~> 0.2.1'
+  pod 'Expecta'
+end
