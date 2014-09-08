@@ -1,6 +1,6 @@
 # AXMetricPrefixFormatter
 
-[![CI Status](http://img.shields.io/travis/Hiroki Akiyama/AXMetricPrefixFormatter.svg?style=flat)](https://travis-ci.org/Hiroki Akiyama/AXMetricPrefixFormatter)
+[![CI Status](http://img.shields.io/travis/akiroom/AXMetricPrefixFormatter.svg?style=flat)](https://travis-ci.org/akiroom/AXMetricPrefixFormatter)
 [![Version](https://img.shields.io/cocoapods/v/AXMetricPrefixFormatter.svg?style=flat)](http://cocoadocs.org/docsets/AXMetricPrefixFormatter)
 [![License](https://img.shields.io/cocoapods/l/AXMetricPrefixFormatter.svg?style=flat)](http://cocoadocs.org/docsets/AXMetricPrefixFormatter)
 [![Platform](https://img.shields.io/cocoapods/p/AXMetricPrefixFormatter.svg?style=flat)](http://cocoadocs.org/docsets/AXMetricPrefixFormatter)
